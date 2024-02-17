@@ -1,0 +1,275 @@
+* {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+
+
+    
+}
+
+body{
+    background-color: black;
+}
+
+.navimage {
+    margin: 2px 10px;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.hamburgerIMG {
+    height: 30px;
+    margin: 22px 40px;
+}
+
+
+.logo {
+    margin: 22px 104px;
+}
+
+.first {
+    color: #cbb12d;
+    font-size: 26px;
+    display: flex;
+    justify-content: center;
+    letter-spacing: 2px;
+    margin-top: 116px;
+    font-family: sans-serif;
+}
+
+.second {
+    color: aliceblue;
+    font-size: 47px;
+    display: flex;
+    justify-content: center;
+    letter-spacing: 10px;
+}
+
+.third {
+    color: aliceblue;
+    font-size: 65px;
+    display: flex;
+    justify-content: center;
+    letter-spacing: 10px;
+    font-family: fangsong;
+}
+
+.fourth {
+    margin-top: 20px;
+    color: aliceblue;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    letter-spacing: 4px;
+    font-family: sans-serif;
+}
+
+.fifth{
+    color: aliceblue;
+    font-size: 30px;
+    margin-top: 116px;
+    margin-left: 133px;
+    font-family:  32px;
+    letter-spacing: 5px;
+    font-family: fangsong;;
+
+}
+
+.sixth{
+    color: #771713;
+    font-size: 100px;
+    margin-top: 11px;
+    margin-left: 133px;
+    letter-spacing: 3px;
+    font-family: fansong;
+}
+
+.para{
+    color: aliceblue;
+    font-size: 30px;
+    margin-top: 4px;
+    margin-left: 133px;
+    letter-spacing: 3px;
+    font-family: math;
+}
+
+
+.outerDIV{
+display: flex;
+}
+
+.redButton{
+color: white;
+background: #771713;
+padding: 20px;
+font-size: 20px;
+transition: transform .2s;
+cursor: pointer;
+}
+
+.redButton:hover {
+    transform: scale(1.1);
+
+  }
+.buttonContainer{
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.cardinhand{
+    height: 485px;
+    width: 282px;
+    margin: 10px 40px;
+}
+
+.redbox{
+    background-color: #771713;
+    height: 250px;
+    width: 100%;
+    position: absolute;
+    margin-top: 18px;
+}
+
+
+ .insidebox{
+    color: aliceblue;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    position: relative;
+    background-color: #771713;
+    letter-spacing: 10px;
+    font-family: math;
+
+}  
+
+.cls2{
+    color: aliceblue;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    /* position: relative; */
+    background-color: #771713;
+    letter-spacing: 5px;
+    font-family: math;
+
+}  
+
+.icons{
+    color: aliceblue;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin-top: 10px;
+    /* position: relative; */
+    background-color: #771713;
+    letter-spacing: 5px;
+    font-family: math;
+    list-style-type: none;
+    margin: 16px 135px;
+
+}
+
+.icons>li{
+    background-color: #771713;
+}
+
+
+
+
+.one{
+    font-size: 50px;
+    color: #771713;
+    margin-left: 246px;
+    margin-top: 112px;
+    letter-spacing: 15px;
+    font-family: monospace;
+}
+
+.two{
+    font-size: 94px;
+    color: #771713;
+    margin-left: 246px;
+    margin-top: -9px;
+    letter-spacing: 10px;
+    font-family: monospace;
+}
+
+.para{
+    font-size: 29px;
+    color: aliceblue;
+    margin-left: 246px;
+    margin-top: 9px;
+    letter-spacing: 2px;
+    font-family: monospace;
+}
+
+.img{
+    margin-left: 247px;
+    margin-top: 24px;
+    
+}
+
+.para2{
+    font-size: 29px;
+    color: aliceblue;
+    margin-left: 246px;
+    margin-top: 9px;
+    letter-spacing: 2px;
+    font-family: monospace;
+}
+
+
+.div{
+
+    margin-top: 300px;
+}
+
+.bottomimg{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.bottom{
+   
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    letter-spacing: 4px;
+    font-size: 26px;
+    font-family: monospace;
+}
+
+.bottomhed{
+    color:#771713 ;
+    display: flex;
+    justify-content: center;
+    letter-spacing: 2px;
+    font-size: 31px;
+    font-family: cursive;
+}
+
+.bottommid{
+    color: white;
+    display: flex;
+    justify-content: center;
+    letter-spacing: 2px;
+    font-size: 19px;
+    font-family: monospace;
+    margin-top: 10px;
+}
+
+/* form */
+
+
+
+
